@@ -10,3 +10,18 @@ html {
 h1, h2, p {
   color: #fff;
 }
+
+.btn {
+  color: #fff;
+  border-color: #fff;
+}
+
+.btn:hover {
+  color: rgba(255, 255, 255, 0);
+  background-color: #fff;
+  border-color: #fff;
+}
+
+@media only screen and (min-width: 60em) {
+
+}
