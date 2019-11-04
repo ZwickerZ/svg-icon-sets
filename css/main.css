@@ -1,7 +1,12 @@
 html {
-  font-family: 'Overpass', sans-serif;
+  font-family: Overpass, sans-serif;
+    background-image: linear-gradient(#ff9500, #ff5e3a);
 }
 
-.icon {
-  fill: green;
+.icon svg {
+  fill: #fff;
+}
+
+h1, h2, p {
+  color: #fff;
 }
