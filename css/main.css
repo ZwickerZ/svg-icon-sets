@@ -1,6 +1,6 @@
 html {
   font-family: Overpass, sans-serif;
-    background-image: linear-gradient(#ff9500, #ff5e3a);
+  background-image: linear-gradient(#ff9500, #ff5e3a);
 }
 
 .icon svg {
@@ -23,7 +23,9 @@ h1, h2, p {
 }
 
 @media only screen and (min-width: 60em) {
+
   .i-1, .i-2 {
     border-right: 3px solid #fff;
   }
+
 }
